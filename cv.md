@@ -30,6 +30,6 @@ Mechatronics
 * Courses
    - CS50
    - https://ru.code-basics.com
-   - freecodecamp
+   - Freecodecamp
  ## English
  A2
