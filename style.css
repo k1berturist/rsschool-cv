@@ -61,9 +61,8 @@ img {
 }
 
 footer {
-  margin-top: 10px;
+  margin-top: 24px;
   background-color: #1f1f44;
-  padding-bottom: 1px;
 }
 
 footer img {
@@ -76,4 +75,9 @@ footer ul {
   display: flex;
   justify-content: space-between;
   align-items: center;
+margin: 0;}
+
+.github img{
+  width: 40px;
+  height: 40px;
 }
